@@ -3,7 +3,12 @@
 <br>Feito para Apaixonados em Galáxias<br/>
 </h3>
 
+![image](https://github.com/marostegaf/SpaceApp/assets/103620713/45a4cabf-cdc0-4ada-965b-50ff724d6ca9)
+![image](https://github.com/marostegaf/SpaceApp/assets/103620713/ccf3c4be-b286-479b-a306-2c71ba530757)
+![image](https://github.com/marostegaf/SpaceApp/assets/103620713/6f208b21-b510-4c60-9ccb-6e13491ae411)
+
 ## 🧑🏻‍💻 Tecnologias
+#### Esse projeto foi desenvolvido durante o programa Oracle Next Education!
 - Vite
 ###### Dependências adicionadas
 - Styled Components
